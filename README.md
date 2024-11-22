@@ -6,7 +6,7 @@ A simple yet powerful solution to streamline local development while keeping hea
 
 This tool solves a common challenge in microservices development: the need to have instant **feedback loop** and run **resource-intensive services** locally at the same time. Instead of running heavy services like ELK Stack, databases, or machine learning models on your development machine, this tool creates lightweight proxy containers that forward traffic to the actual services running on a remote server.
 
-## Key Benefits
+## 🔑 Key Benefits
 
 - 🔥 Dramatically reduced local resource usage.
 - 🚄 Faster local development setup and ⚡️ instant feedback loop.
